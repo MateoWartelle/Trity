@@ -1,6 +1,8 @@
 # Trity
 Trity is an advanced pentesting framework dedicated to everything from cryptography to spoofing.
 
+![Trity](screenshot_v3.0.1.png)
+
 ## Installation & Usage
 
 In order to install this program, it is crucial that you are on a __Linux-based__ distro, preferably __Kali-Linux__.
